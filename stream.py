@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jan  20 02:07:13 2019
+Created on Mon Jan 15 2024
 
-@author: prabhakar
+@author: Javohir Jalilov 
+Email: javohirjaliloff@gmail.com
 """
 # import necessary argumnets 
 import gi
